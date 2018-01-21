@@ -1,0 +1,7 @@
+nsp check  ; For package securities
+Browsersync
+
+Combining browsersync and localtunnel is a powerful combination when testing devices.
+
+
+npm is better to use than gulp or grunt as debugging makes it easier. Better docs too.
